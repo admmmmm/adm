@@ -1,0 +1,4 @@
+﻿  HW.cpp
+  main.cpp
+  正在生成代码...
+C:\Users\adm14\Desktop\Exploration\repos\Hello_World\Hello_World\main.cpp(5,5): error C2065: “cin”: 未声明的标识符
